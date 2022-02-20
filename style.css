@@ -1,0 +1,131 @@
+html {
+    max-width: 1920px;
+    max-height: 1080px;
+    background-color: rgb(59, 58, 119);
+
+}
+
+.welcome {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 80px;
+    font-family: "Bebas Neue", cursive;
+    flex: auto;
+}
+
+.myself {
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+    max-height: 50%;
+    box-align: center;
+    display: block;
+}
+
+.introduction {
+    font-family: "Dosis", sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(114, 114, 114);
+    background-color: whitesmoke;
+    width: 100%;
+    padding-bottom: 30px;
+    padding-top: 5px;
+    margin-top: 10px;
+}
+
+.intro {
+    font-size: 35px;
+}
+
+
+section {
+    float: left;
+    width: 100%;
+    font-family: "Dosis", sans-serif;
+    font-size: 45px;
+    color: whitesmoke;
+    text-align: center;
+    display: block;
+}
+
+.cert {
+    max-width: 40%;
+}
+
+aside {
+    float: right;
+    width: 35%;
+    font-family: "Dosis", sans-serif;
+    font-size: 30px;
+    color: whitesmoke;
+    background-color: rgb(114, 114, 114);
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.experiences {
+    color: rgb(114, 114, 114);
+    background-color: whitesmoke;
+    width: 65%;
+    font-size: 30px;
+    height: auto;
+    padding-bottom: 58px;
+}
+
+.employer {
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(28, 25, 201);
+}
+
+.contact-click {
+    width: 100%;
+    height: 100px;
+    background-color: whitesmoke;
+    position: sticky;
+    bottom: 0;
+    justify-content: space-around;
+    display: flex;
+    align-items: flex-start;
+}
+
+.contact {
+    color:rgb(59, 58, 119);
+    font-family: "Bebas Neue", cursive;
+    text-decoration: none;
+    padding-top: 5px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.contact-a {
+    color: rgb(114, 114, 114);
+    font-family: "Bebas Neue", cursive;
+    padding-top: 25px;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.logo-f {
+    max-height: 150px;
+}
+
+.logo-s {
+    max-height: 120px;
+    margin-left: 25px;
+}
+
+.skills {
+    margin-bottom: 150px;
+}
+
+.space {
+    width: 100%;
+    height: 20
+}

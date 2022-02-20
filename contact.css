@@ -1,0 +1,65 @@
+html {
+    max-width: 1920px;
+    max-height: 1080px;
+    background-color: rgb(59, 58, 119);
+}
+
+.contact-me {
+    text-align: center;
+    color: rgb(59, 58, 119);
+    font-size: 80px;
+    font-family: "Bebas Neue", cursive;
+    flex: auto;
+    background-color: whitesmoke;
+}
+
+.linkedin {
+    width: 100px;
+    height: 100px;
+    color: whitesmoke;
+    margin: 60px;
+}
+
+.facebook {
+    width: 100px;
+    height: 100px;
+    color: whitesmoke;
+    margin: 60px;
+}
+
+.email {
+    width: 100px;
+    height: 100px;
+    color: whitesmoke;
+    margin: 60px;
+}
+
+
+.twitter {
+    width: 100px;
+    height: 100px;
+    color: whitesmoke;
+    margin: 60px;
+}
+
+.github {
+    width: 100px;
+    height: 100px;
+    color: whitesmoke;
+    margin: 60px;
+}
+
+.logos {
+    text-align: center;
+}
+
+.about-me {
+    background-color: rgb(114, 114, 114);
+    color: whitesmoke;
+    font-family: "Bebas Neue", cursive;
+    font-size: 40px;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
