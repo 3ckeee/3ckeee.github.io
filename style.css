@@ -63,6 +63,7 @@ aside {
     background-color: rgb(114, 114, 114);
     text-align: center;
     padding-bottom: 20px;
+    min-height: 300px;
 }
 
 .experiences {
@@ -70,7 +71,7 @@ aside {
     background-color: whitesmoke;
     width: 65%;
     font-size: 30px;
-    height: auto;
+    height: 300px;
     padding-bottom: 58px;
 }
 
