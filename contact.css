@@ -20,6 +20,11 @@ html {
     margin: 60px;
 }
 
+.linkedin:hover {
+    color: aqua;
+    transition: 1.5s;
+}
+
 .facebook {
     width: 100px;
     height: 100px;
@@ -27,11 +32,21 @@ html {
     margin: 60px;
 }
 
+.facebook:hover {
+    color: aqua;
+    transition: 1.5s;
+}
+
 .email {
     width: 100px;
     height: 100px;
     color: whitesmoke;
     margin: 60px;
+}
+
+.email:hover {
+    color: aqua;
+    transition: 1.5s;
 }
 
 
@@ -42,11 +57,21 @@ html {
     margin: 60px;
 }
 
+.twitter:hover {
+    color: aqua;
+    transition: 1.5s;
+}
+
 .github {
     width: 100px;
     height: 100px;
     color: whitesmoke;
     margin: 60px;
+}
+
+.github:hover {
+    color: aqua;
+    transition: 1.5s;
 }
 
 .logos {
