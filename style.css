@@ -64,6 +64,7 @@ aside {
     text-align: center;
     padding-bottom: 20px;
     min-height: 300px;
+    max-height: 500px;
 }
 
 .experiences {
@@ -71,7 +72,8 @@ aside {
     background-color: whitesmoke;
     width: 65%;
     font-size: 30px;
-    height: 300px;
+    min-height: 300px;
+    max-height: 500px;
     padding-bottom: 58px;
 }
 
